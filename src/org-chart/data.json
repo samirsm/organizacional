@@ -1,0 +1,1157 @@
+[
+  {
+    "nodeId": "O-1",
+    "parentNodeId": null,
+    "name": "Mônica Tejo Cavalcanti",
+    "role": "Diretora",
+    "email": "insa@insa.gov.br",
+    "sector": "DIREÇÃO",
+    "width": 342,
+    "height": 146,
+    "borderWidth": 1,
+    "borderRadius": 5,
+    "borderColor": {
+      "red": 15,
+      "green": 140,
+      "blue": 121,
+      "alpha": 1
+    },
+    "backgroundColor": {
+      "red": 51,
+      "green": 182,
+      "blue": 208,
+      "alpha": 1
+    },
+    "nodeImage": {
+      "url": "https://wscom.com.br/wp-content/uploads/2020/02/images.jpeg-14-2.jpg",
+      "width": 100,
+      "height": 100,
+      "centerTopDistance": 0,
+      "centerLeftDistance": 0,
+      "cornerShape": "CIRCLE",
+      "shadow": false,
+      "borderWidth": 0,
+      "borderColor": {
+        "red": 19,
+        "green": 123,
+        "blue": 128,
+        "alpha": 1
+      }
+    },
+    "nodeIcon": {
+      "icon": "https://to.ly/1yZnX",
+      "size": 30
+    },
+    "connectorLineColor": {
+      "red": 220,
+      "green": 189,
+      "blue": 207,
+      "alpha": 1
+    },
+    "connectorLineWidth": 5,
+    "dashArray": "",
+    "expanded": false,
+    "directSubordinates": 4,
+    "totalSubordinates": 1515
+  },
+  {
+    "nodeId": "O-2",
+    "parentNodeId": "O-1",
+    "name": "ADMINISTRACAO",
+    "role": "",
+    "email": "",
+    "sector": "",
+    "width": 342,
+    "height": 146,
+    "borderWidth": 1,
+    "borderRadius": 5,
+    "borderColor": {
+      "red": 15,
+      "green": 140,
+      "blue": 121,
+      "alpha": 1
+    },
+    "backgroundColor": {
+     "red": 230,
+      "green": 171,
+      "blue": 1,
+      "alpha": 1
+    },
+    "nodeImage": {
+      "url": "",
+      "width": 100,
+      "height": 100,
+      "centerTopDistance": 0,
+      "centerLeftDistance": 0,
+      "cornerShape": "CIRCLE",
+      "shadow": false,
+      "borderWidth": 0,
+      "borderColor": {
+        "red": 19,
+        "green": 123,
+        "blue": 128,
+        "alpha": 1
+      }
+    },
+    "nodeIcon": {
+      "icon": "",
+      "size": 30
+    },
+    "connectorLineColor": {
+      "red": 220,
+      "green": 189,
+      "blue": 207,
+      "alpha": 1
+    },
+    "connectorLineWidth": 5,
+    "dashArray": "",
+    "expanded": false,
+    "directSubordinates": 4,
+    "totalSubordinates": 1515
+  },
+  {
+    "nodeId": "O-3",
+    "parentNodeId": "O-1",
+    "name": "Maria de Fátima S Soares",
+    "role": "Secretária",
+    "email": "maria.fatima@insa.gov.br",
+    "sector": "DIREÇÃO",
+    "width": 342,
+    "height": 146,
+    "borderWidth": 1,
+    "borderRadius": 5,
+    "borderColor": {
+      "red": 15,
+      "green": 140,
+      "blue": 121,
+      "alpha": 1
+    },
+    "backgroundColor": {
+      "red": 51,
+      "green": 182,
+      "blue": 208,
+      "alpha": 1
+    },
+    "nodeImage": {
+      "url": "https://wscom.com.br/wp-content/uploads/2020/02/images.jpeg-14-2.jpg",
+      "width": 100,
+      "height": 100,
+      "centerTopDistance": 0,
+      "centerLeftDistance": 0,
+      "cornerShape": "CIRCLE",
+      "shadow": false,
+      "borderWidth": 0,
+      "borderColor": {
+        "red": 19,
+        "green": 123,
+        "blue": 128,
+        "alpha": 1
+      }
+    },
+    "nodeIcon": {
+      "icon": "https://to.ly/1yZnX",
+      "size": 30
+    },
+    "connectorLineColor": {
+      "red": 220,
+      "green": 189,
+      "blue": 207,
+      "alpha": 1
+    },
+    "connectorLineWidth": 5,
+    "dashArray": "",
+    "expanded": false,
+    "directSubordinates": 4,
+    "totalSubordinates": 1515
+  },
+  {
+    "nodeId": "O-4",
+    "parentNodeId": "O-1",
+    "name": "PESQUISA",
+    "role": "",
+    "email": "",
+    "sector": "",
+    "width": 342,
+    "height": 146,
+    "borderWidth": 1,
+    "borderRadius": 5,
+    "borderColor": {
+      "red": 19,
+      "green": 123,
+      "blue": 128,
+      "alpha": 1
+    },
+    "backgroundColor": {
+      "red": 230,
+      "green": 171,
+      "blue": 1,
+      "alpha": 1
+    },
+    "nodeImage": {
+      "url": "",
+      "width": 100,
+      "height": 100,
+      "centerTopDistance": 0,
+      "centerLeftDistance": 0,
+      "cornerShape": "CIRCLE",
+      "shadow": false,
+      "borderWidth": 0,
+      "borderColor": {
+        "red": 19,
+        "green": 123,
+        "blue": 128,
+        "alpha": 1
+      }
+    },
+    "nodeIcon": {
+      "icon": "",
+      "size": 30
+    },
+    "connectorLineColor": {
+      "red": 220,
+      "green": 189,
+      "blue": 207,
+      "alpha": 1
+    },
+    "connectorLineWidth": 5,
+    "dashArray": "",
+    "expanded": false,
+    "directSubordinates": 4,
+    "totalSubordinates": 1515
+  },
+  {
+    "nodeId": "O-5",
+    "parentNodeId": "O-2",
+    "name": "COORDENAÇÃO DE ADMINISTRAÇÃO",
+    "role": "",
+    "email": "",
+    "sector": "",
+    "width": 342,
+    "height": 146,
+    "borderWidth": 1,
+    "borderRadius": 5,
+    "borderColor": {
+      "red": 19,
+      "green": 123,
+      "blue": 128,
+      "alpha": 1
+    },
+    "backgroundColor": {
+      "red": 230,
+      "green": 171,
+      "blue": 1,
+      "alpha": 1
+    },
+    "nodeImage": {
+      "url": "",
+      "width": 100,
+      "height": 100,
+      "centerTopDistance": 0,
+      "centerLeftDistance": 0,
+      "cornerShape": "CIRCLE",
+      "shadow": false,
+      "borderWidth": 0,
+      "borderColor": {
+        "red": 19,
+        "green": 123,
+        "blue": 128,
+        "alpha": 1
+      }
+    },
+    "nodeIcon": {
+      "icon": "",
+      "size": 30
+    },
+    "connectorLineColor": {
+      "red": 220,
+      "green": 189,
+      "blue": 207,
+      "alpha": 1
+    },
+    "connectorLineWidth": 5,
+    "dashArray": "",
+    "expanded": false,
+    "directSubordinates": 4,
+    "totalSubordinates": 1515
+  },
+  {
+    "nodeId": "O-6",
+    "parentNodeId": "O-2",
+    "name": "SERVIÇO ADMINISTRATIVO",
+    "role": "",
+    "email": "",
+    "sector": "",
+    "width": 342,
+    "height": 146,
+    "borderWidth": 1,
+    "borderRadius": 5,
+    "borderColor": {
+      "red": 19,
+      "green": 123,
+      "blue": 128,
+      "alpha": 1
+    },
+    "backgroundColor": {
+      "red": 230,
+      "green": 171,
+      "blue": 1,
+      "alpha": 1
+    },
+    "nodeImage": {
+      "url": "",
+      "width": 100,
+      "height": 100,
+      "centerTopDistance": 0,
+      "centerLeftDistance": 0,
+      "cornerShape": "CIRCLE",
+      "shadow": false,
+      "borderWidth": 0,
+      "borderColor": {
+        "red": 19,
+        "green": 123,
+        "blue": 128,
+        "alpha": 1
+      }
+    },
+    "nodeIcon": {
+      "icon": "",
+      "size": 30
+    },
+    "connectorLineColor": {
+      "red": 220,
+      "green": 189,
+      "blue": 207,
+      "alpha": 1
+    },
+    "connectorLineWidth": 5,
+    "dashArray": "",
+    "expanded": false,
+    "directSubordinates": 4,
+    "totalSubordinates": 1515
+  },
+  {
+    "nodeId": "O-7",
+    "parentNodeId": "O-2",
+    "name": "ASSESSORIA DE COMUNICAÇÃO",
+    "role": "",
+    "email": "",
+    "sector": "",
+    "width": 342,
+    "height": 146,
+    "borderWidth": 1,
+    "borderRadius": 5,
+    "borderColor": {
+      "red": 19,
+      "green": 123,
+      "blue": 128,
+      "alpha": 1
+    },
+    "backgroundColor": {
+      "red": 230,
+      "green": 171,
+      "blue": 1,
+      "alpha": 1
+    },
+    "nodeImage": {
+      "url": "",
+      "width": 100,
+      "height": 100,
+      "centerTopDistance": 0,
+      "centerLeftDistance": 0,
+      "cornerShape": "CIRCLE",
+      "shadow": false,
+      "borderWidth": 0,
+      "borderColor": {
+        "red": 19,
+        "green": 123,
+        "blue": 128,
+        "alpha": 1
+      }
+    },
+    "nodeIcon": {
+      "icon": "",
+      "size": 30
+    },
+    "connectorLineColor": {
+      "red": 220,
+      "green": 189,
+      "blue": 207,
+      "alpha": 1
+    },
+    "connectorLineWidth": 5,
+    "dashArray": "",
+    "expanded": false,
+    "directSubordinates": 4,
+    "totalSubordinates": 1515
+  },
+  {
+    "nodeId": "O-8",
+    "parentNodeId": "O-2",
+    "name": "SERVIÇO DE INFORMAÇÃO AO CIDADÃO (SIC)",
+    "role": "",
+    "email": "",
+    "sector": "",
+    "width": 342,
+    "height": 146,
+    "borderWidth": 1,
+    "borderRadius": 5,
+    "borderColor": {
+      "red": 19,
+      "green": 123,
+      "blue": 128,
+      "alpha": 1
+    },
+    "backgroundColor": {
+      "red": 230,
+      "green": 171,
+      "blue": 1,
+      "alpha": 1
+    },
+    "nodeImage": {
+      "url": "",
+      "width": 100,
+      "height": 100,
+      "centerTopDistance": 0,
+      "centerLeftDistance": 0,
+      "cornerShape": "CIRCLE",
+      "shadow": false,
+      "borderWidth": 0,
+      "borderColor": {
+        "red": 19,
+        "green": 123,
+        "blue": 128,
+        "alpha": 1
+      }
+    },
+    "nodeIcon": {
+      "icon": "",
+      "size": 30
+    },
+    "connectorLineColor": {
+      "red": 220,
+      "green": 189,
+      "blue": 207,
+      "alpha": 1
+    },
+    "connectorLineWidth": 5,
+    "dashArray": "",
+    "expanded": false,
+    "directSubordinates": 4,
+    "totalSubordinates": 1515
+  },
+  {
+    "nodeId": "O-9",
+    "parentNodeId": "O-2",
+    "name": "OUVIDORIA",
+    "role": "",
+    "email": "",
+    "sector": "",
+    "width": 342,
+    "height": 146,
+    "borderWidth": 1,
+    "borderRadius": 5,
+    "borderColor": {
+      "red": 19,
+      "green": 123,
+      "blue": 128,
+      "alpha": 1
+    },
+    "backgroundColor": {
+      "red": 230,
+      "green": 171,
+      "blue": 1,
+      "alpha": 1
+    },
+    "nodeImage": {
+      "url": "",
+      "width": 100,
+      "height": 100,
+      "centerTopDistance": 0,
+      "centerLeftDistance": 0,
+      "cornerShape": "CIRCLE",
+      "shadow": false,
+      "borderWidth": 0,
+      "borderColor": {
+        "red": 19,
+        "green": 123,
+        "blue": 128,
+        "alpha": 1
+      }
+    },
+    "nodeIcon": {
+      "icon": "",
+      "size": 30
+    },
+    "connectorLineColor": {
+      "red": 220,
+      "green": 189,
+      "blue": 207,
+      "alpha": 1
+    },
+    "connectorLineWidth": 5,
+    "dashArray": "",
+    "expanded": false,
+    "directSubordinates": 4,
+    "totalSubordinates": 1515
+  },
+  {
+    "nodeId": "O-10",
+    "parentNodeId": "O-2",
+    "name": "TECNOLOGIA DA INFORMAÇÃO",
+    "role": "",
+    "email": "",
+    "sector": "",
+    "width": 342,
+    "height": 146,
+    "borderWidth": 1,
+    "borderRadius": 5,
+    "borderColor": {
+      "red": 19,
+      "green": 123,
+      "blue": 128,
+      "alpha": 1
+    },
+    "backgroundColor": {
+      "red": 230,
+      "green": 171,
+      "blue": 1,
+      "alpha": 1
+    },
+    "nodeImage": {
+      "url": "",
+      "width": 100,
+      "height": 100,
+      "centerTopDistance": 0,
+      "centerLeftDistance": 0,
+      "cornerShape": "CIRCLE",
+      "shadow": false,
+      "borderWidth": 0,
+      "borderColor": {
+        "red": 19,
+        "green": 123,
+        "blue": 128,
+        "alpha": 1
+      }
+    },
+    "nodeIcon": {
+      "icon": "",
+      "size": 30
+    },
+    "connectorLineColor": {
+      "red": 220,
+      "green": 189,
+      "blue": 207,
+      "alpha": 1
+    },
+    "connectorLineWidth": 5,
+    "dashArray": "",
+    "expanded": false,
+    "directSubordinates": 4,
+    "totalSubordinates": 1515
+  },
+  {
+    "nodeId": "O-11",
+    "parentNodeId": "O-2",
+    "name": "COMPRAS E LICITAÇÕES",
+    "role": "",
+    "email": "",
+    "sector": "",
+    "width": 342,
+    "height": 146,
+    "borderWidth": 1,
+    "borderRadius": 5,
+    "borderColor": {
+      "red": 19,
+      "green": 123,
+      "blue": 128,
+      "alpha": 1
+    },
+    "backgroundColor": {
+      "red": 230,
+      "green": 171,
+      "blue": 1,
+      "alpha": 1
+    },
+    "nodeImage": {
+      "url": "",
+      "width": 100,
+      "height": 100,
+      "centerTopDistance": 0,
+      "centerLeftDistance": 0,
+      "cornerShape": "CIRCLE",
+      "shadow": false,
+      "borderWidth": 0,
+      "borderColor": {
+        "red": 19,
+        "green": 123,
+        "blue": 128,
+        "alpha": 1
+      }
+    },
+    "nodeIcon": {
+      "icon": "",
+      "size": 30
+    },
+    "connectorLineColor": {
+      "red": 220,
+      "green": 189,
+      "blue": 207,
+      "alpha": 1
+    },
+    "connectorLineWidth": 5,
+    "dashArray": "",
+    "expanded": false,
+    "directSubordinates": 4,
+    "totalSubordinates": 1515
+  },
+  {
+    "nodeId": "O-12",
+    "parentNodeId": "O-2",
+    "name": "CONTABILIDADE E FINANÇAS",
+    "role": "",
+    "email": "",
+    "sector": "",
+    "width": 342,
+    "height": 146,
+    "borderWidth": 1,
+    "borderRadius": 5,
+    "borderColor": {
+      "red": 19,
+      "green": 123,
+      "blue": 128,
+      "alpha": 1
+    },
+    "backgroundColor": {
+      "red": 230,
+      "green": 171,
+      "blue": 1,
+      "alpha": 1
+    },
+    "nodeImage": {
+      "url": "",
+      "width": 100,
+      "height": 100,
+      "centerTopDistance": 0,
+      "centerLeftDistance": 0,
+      "cornerShape": "CIRCLE",
+      "shadow": false,
+      "borderWidth": 0,
+      "borderColor": {
+        "red": 19,
+        "green": 123,
+        "blue": 128,
+        "alpha": 1
+      }
+    },
+    "nodeIcon": {
+      "icon": "",
+      "size": 30
+    },
+    "connectorLineColor": {
+      "red": 220,
+      "green": 189,
+      "blue": 207,
+      "alpha": 1
+    },
+    "connectorLineWidth": 5,
+    "dashArray": "",
+    "expanded": false,
+    "directSubordinates": 4,
+    "totalSubordinates": 1515
+  },
+  {
+    "nodeId": "O-13",
+    "parentNodeId": "O-2",
+    "name": "LEI DE ACESSO À INFORMAÇÃO (LAI)",
+    "role": "",
+    "email": "",
+    "sector": "",
+    "width": 342,
+    "height": 146,
+    "borderWidth": 1,
+    "borderRadius": 5,
+    "borderColor": {
+      "red": 19,
+      "green": 123,
+      "blue": 128,
+      "alpha": 1
+    },
+    "backgroundColor": {
+      "red": 230,
+      "green": 171,
+      "blue": 1,
+      "alpha": 1
+    },
+    "nodeImage": {
+      "url": "",
+      "width": 100,
+      "height": 100,
+      "centerTopDistance": 0,
+      "centerLeftDistance": 0,
+      "cornerShape": "CIRCLE",
+      "shadow": false,
+      "borderWidth": 0,
+      "borderColor": {
+        "red": 19,
+        "green": 123,
+        "blue": 128,
+        "alpha": 1
+      }
+    },
+    "nodeIcon": {
+      "icon": "",
+      "size": 30
+    },
+    "connectorLineColor": {
+      "red": 220,
+      "green": 189,
+      "blue": 207,
+      "alpha": 1
+    },
+    "connectorLineWidth": 5,
+    "dashArray": "",
+    "expanded": false,
+    "directSubordinates": 4,
+    "totalSubordinates": 1515
+  },
+  {
+    "nodeId": "O-14",
+    "parentNodeId": "O-2",
+    "name": "SISTEMA E_AUD",
+    "role": "",
+    "email": "",
+    "sector": "",
+    "width": 342,
+    "height": 146,
+    "borderWidth": 1,
+    "borderRadius": 5,
+    "borderColor": {
+      "red": 19,
+      "green": 123,
+      "blue": 128,
+      "alpha": 1
+    },
+    "backgroundColor": {
+      "red": 230,
+      "green": 171,
+      "blue": 1,
+      "alpha": 1
+    },
+    "nodeImage": {
+      "url": "",
+      "width": 100,
+      "height": 100,
+      "centerTopDistance": 0,
+      "centerLeftDistance": 0,
+      "cornerShape": "CIRCLE",
+      "shadow": false,
+      "borderWidth": 0,
+      "borderColor": {
+        "red": 19,
+        "green": 123,
+        "blue": 128,
+        "alpha": 1
+      }
+    },
+    "nodeIcon": {
+      "icon": "",
+      "size": 30
+    },
+    "connectorLineColor": {
+      "red": 220,
+      "green": 189,
+      "blue": 207,
+      "alpha": 1
+    },
+    "connectorLineWidth": 5,
+    "dashArray": "",
+    "expanded": false,
+    "directSubordinates": 4,
+    "totalSubordinates": 1515
+  },
+  {
+    "nodeId": "O-15",
+    "parentNodeId": "O-2",
+    "name": "SISTEMA INCOM",
+    "role": "",
+    "email": "",
+    "sector": "",
+    "width": 342,
+    "height": 146,
+    "borderWidth": 1,
+    "borderRadius": 5,
+    "borderColor": {
+      "red": 19,
+      "green": 123,
+      "blue": 128,
+      "alpha": 1
+    },
+    "backgroundColor": {
+      "red": 230,
+      "green": 171,
+      "blue": 1,
+      "alpha": 1
+    },
+    "nodeImage": {
+      "url": "",
+      "width": 100,
+      "height": 100,
+      "centerTopDistance": 0,
+      "centerLeftDistance": 0,
+      "cornerShape": "CIRCLE",
+      "shadow": false,
+      "borderWidth": 0,
+      "borderColor": {
+        "red": 19,
+        "green": 123,
+        "blue": 128,
+        "alpha": 1
+      }
+    },
+    "nodeIcon": {
+      "icon": "",
+      "size": 30
+    },
+    "connectorLineColor": {
+      "red": 220,
+      "green": 189,
+      "blue": 207,
+      "alpha": 1
+    },
+    "connectorLineWidth": 5,
+    "dashArray": "",
+    "expanded": false,
+    "directSubordinates": 4,
+    "totalSubordinates": 1515
+  },
+  {
+    "nodeId": "O-16",
+    "parentNodeId": "O-2",
+    "name": "GESTÃO DE PESSOAS",
+    "role": "",
+    "email": "",
+    "sector": "",
+    "width": 342,
+    "height": 146,
+    "borderWidth": 1,
+    "borderRadius": 5,
+    "borderColor": {
+      "red": 19,
+      "green": 123,
+      "blue": 128,
+      "alpha": 1
+    },
+    "backgroundColor": {
+      "red": 230,
+      "green": 171,
+      "blue": 1,
+      "alpha": 1
+    },
+    "nodeImage": {
+      "url": "",
+      "width": 100,
+      "height": 100,
+      "centerTopDistance": 0,
+      "centerLeftDistance": 0,
+      "cornerShape": "CIRCLE",
+      "shadow": false,
+      "borderWidth": 0,
+      "borderColor": {
+        "red": 19,
+        "green": 123,
+        "blue": 128,
+        "alpha": 1
+      }
+    },
+    "nodeIcon": {
+      "icon": "",
+      "size": 30
+    },
+    "connectorLineColor": {
+      "red": 220,
+      "green": 189,
+      "blue": 207,
+      "alpha": 1
+    },
+    "connectorLineWidth": 5,
+    "dashArray": "",
+    "expanded": false,
+    "directSubordinates": 4,
+    "totalSubordinates": 1515
+  },
+  {
+    "nodeId": "O-17",
+    "parentNodeId": "O-2",
+    "name": "INFRAESTRUTURA E TRANSPORTE",
+    "role": "",
+    "email": "",
+    "sector": "",
+    "width": 342,
+    "height": 146,
+    "borderWidth": 1,
+    "borderRadius": 5,
+    "borderColor": {
+      "red": 19,
+      "green": 123,
+      "blue": 128,
+      "alpha": 1
+    },
+    "backgroundColor": {
+      "red": 230,
+      "green": 171,
+      "blue": 1,
+      "alpha": 1
+    },
+    "nodeImage": {
+      "url": "",
+      "width": 100,
+      "height": 100,
+      "centerTopDistance": 0,
+      "centerLeftDistance": 0,
+      "cornerShape": "CIRCLE",
+      "shadow": false,
+      "borderWidth": 0,
+      "borderColor": {
+        "red": 19,
+        "green": 123,
+        "blue": 128,
+        "alpha": 1
+      }
+    },
+    "nodeIcon": {
+      "icon": "",
+      "size": 30
+    },
+    "connectorLineColor": {
+      "red": 220,
+      "green": 189,
+      "blue": 207,
+      "alpha": 1
+    },
+    "connectorLineWidth": 5,
+    "dashArray": "",
+    "expanded": false,
+    "directSubordinates": 4,
+    "totalSubordinates": 1515
+  },
+  {
+    "nodeId": "O-18",
+    "parentNodeId": "O-2",
+    "name": "CONTRATOS",
+    "role": "",
+    "email": "",
+    "sector": "",
+    "width": 342,
+    "height": 146,
+    "borderWidth": 1,
+    "borderRadius": 5,
+    "borderColor": {
+      "red": 19,
+      "green": 123,
+      "blue": 128,
+      "alpha": 1
+    },
+    "backgroundColor": {
+      "red": 230,
+      "green": 171,
+      "blue": 1,
+      "alpha": 1
+    },
+    "nodeImage": {
+      "url": "",
+      "width": 100,
+      "height": 100,
+      "centerTopDistance": 0,
+      "centerLeftDistance": 0,
+      "cornerShape": "CIRCLE",
+      "shadow": false,
+      "borderWidth": 0,
+      "borderColor": {
+        "red": 19,
+        "green": 123,
+        "blue": 128,
+        "alpha": 1
+      }
+    },
+    "nodeIcon": {
+      "icon": "",
+      "size": 30
+    },
+    "connectorLineColor": {
+      "red": 220,
+      "green": 189,
+      "blue": 207,
+      "alpha": 1
+    },
+    "connectorLineWidth": 5,
+    "dashArray": "",
+    "expanded": false,
+    "directSubordinates": 4,
+    "totalSubordinates": 1515
+  },
+  {
+    "nodeId": "O-19",
+    "parentNodeId": "O-2",
+    "name": "BIBLIOTECA",
+    "role": "",
+    "email": "",
+    "sector": "",
+    "width": 342,
+    "height": 146,
+    "borderWidth": 1,
+    "borderRadius": 5,
+    "borderColor": {
+      "red": 19,
+      "green": 123,
+      "blue": 128,
+      "alpha": 1
+    },
+    "backgroundColor": {
+      "red": 230,
+      "green": 171,
+      "blue": 1,
+      "alpha": 1
+    },
+    "nodeImage": {
+      "url": "",
+      "width": 100,
+      "height": 100,
+      "centerTopDistance": 0,
+      "centerLeftDistance": 0,
+      "cornerShape": "CIRCLE",
+      "shadow": false,
+      "borderWidth": 0,
+      "borderColor": {
+        "red": 19,
+        "green": 123,
+        "blue": 128,
+        "alpha": 1
+      }
+    },
+    "nodeIcon": {
+      "icon": "",
+      "size": 30
+    },
+    "connectorLineColor": {
+      "red": 220,
+      "green": 189,
+      "blue": 207,
+      "alpha": 1
+    },
+    "connectorLineWidth": 5,
+    "dashArray": "",
+    "expanded": false,
+    "directSubordinates": 4,
+    "totalSubordinates": 1515
+  },
+  {
+    "nodeId": "O-20",
+    "parentNodeId": "O-5",
+    "name": "Andreia Ponciano M Joffily",
+    "role": "Coordenadora",
+    "email": "andreia.ponciano@insa.gov.br",
+    "sector": "COORDENAÇÃO DE ADMINISTRAÇÃO",
+    "width": 342,
+    "height": 146,
+    "borderWidth": 1,
+    "borderRadius": 5,
+    "borderColor": {
+      "red": 15,
+      "green": 140,
+      "blue": 121,
+      "alpha": 1
+    },
+    "backgroundColor": {
+      "red": 51,
+      "green": 182,
+      "blue": 208,
+      "alpha": 1
+    },
+    "nodeImage": {
+      "url": "",
+      "width": 100,
+      "height": 100,
+      "centerTopDistance": 0,
+      "centerLeftDistance": 0,
+      "cornerShape": "CIRCLE",
+      "shadow": false,
+      "borderWidth": 0,
+      "borderColor": {
+        "red": 19,
+        "green": 123,
+        "blue": 128,
+        "alpha": 1
+      }
+    },
+    "nodeIcon": {
+      "icon": "https://to.ly/1yZnX",
+      "size": 30
+    },
+    "connectorLineColor": {
+      "red": 220,
+      "green": 189,
+      "blue": 207,
+      "alpha": 1
+    },
+    "connectorLineWidth": 5,
+    "dashArray": "",
+    "expanded": false,
+    "directSubordinates": 4,
+    "totalSubordinates": 1515
+  },
+  {
+    "nodeId": "O-21",
+    "parentNodeId": "O-5",
+    "name": "Margareth G de Lima",
+    "role": "Secretária",
+    "email": "margareth.lima@insa.gov.br",
+    "sector": "COORDENAÇÃO DE ADMINISTRAÇÃO",
+    "width": 342,
+    "height": 146,
+    "borderWidth": 1,
+    "borderRadius": 5,
+    "borderColor": {
+      "red": 15,
+      "green": 140,
+      "blue": 121,
+      "alpha": 1
+    },
+    "backgroundColor": {
+      "red": 51,
+      "green": 182,
+      "blue": 208,
+      "alpha": 1
+    },
+    "nodeImage": {
+      "url": "https://wscom.com.br/wp-content/uploads/2020/02/images.jpeg-14-2.jpg",
+      "width": 100,
+      "height": 100,
+      "centerTopDistance": 0,
+      "centerLeftDistance": 0,
+      "cornerShape": "CIRCLE",
+      "shadow": false,
+      "borderWidth": 0,
+      "borderColor": {
+        "red": 19,
+        "green": 123,
+        "blue": 128,
+        "alpha": 1
+      }
+    },
+    "nodeIcon": {
+      "icon": "https://to.ly/1yZnX",
+      "size": 30
+    },
+    "connectorLineColor": {
+      "red": 220,
+      "green": 189,
+      "blue": 207,
+      "alpha": 1
+    },
+    "connectorLineWidth": 5,
+    "dashArray": "",
+    "expanded": false,
+    "directSubordinates": 4,
+    "totalSubordinates": 1515
+  }
+  ]

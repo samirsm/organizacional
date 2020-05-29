@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/quemequem/static/css/main.ebf4b0aa.chunk.css",
+    "main.js": "/quemequem/static/js/main.77ab9b9a.chunk.js",
+    "main.js.map": "/quemequem/static/js/main.77ab9b9a.chunk.js.map",
+    "runtime-main.js": "/quemequem/static/js/runtime-main.b8d2a830.js",
+    "runtime-main.js.map": "/quemequem/static/js/runtime-main.b8d2a830.js.map",
+    "static/js/2.38e5e6fc.chunk.js": "/quemequem/static/js/2.38e5e6fc.chunk.js",
+    "static/js/2.38e5e6fc.chunk.js.map": "/quemequem/static/js/2.38e5e6fc.chunk.js.map",
+    "index.html": "/quemequem/index.html",
+    "precache-manifest.17cb1173416cb8eb250c20b42cea66cf.js": "/quemequem/precache-manifest.17cb1173416cb8eb250c20b42cea66cf.js",
+    "service-worker.js": "/quemequem/service-worker.js",
+    "static/css/main.ebf4b0aa.chunk.css.map": "/quemequem/static/css/main.ebf4b0aa.chunk.css.map",
+    "static/js/2.38e5e6fc.chunk.js.LICENSE.txt": "/quemequem/static/js/2.38e5e6fc.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/quemequem/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b8d2a830.js",
+    "static/js/2.38e5e6fc.chunk.js",
+    "static/css/main.ebf4b0aa.chunk.css",
+    "static/js/main.77ab9b9a.chunk.js"
+  ]
+}
